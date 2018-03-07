@@ -3,6 +3,7 @@
 
 # But not these files...
 !sales_forecast.ipynb
+!sales_forecast-Copy1.ipynb
 
 # ...even if they are in subdirectories
 !*/
