@@ -5,6 +5,7 @@
 !sales_forecast.ipynb
 !sales_forecast-Copy1.ipynb
 !wine_class.ipynb
+!marketing_bank.ipynb
 
 # ...even if they are in subdirectories
 !*/
