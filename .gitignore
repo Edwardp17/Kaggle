@@ -7,7 +7,7 @@
 !wine_class.ipynb
 !marketing_bank.ipynb
 !instacart.ipynb
-!youtube_EDA
+!youtube_EDA.ipynb
 
 # ...even if they are in subdirectories
 !*/
