@@ -6,7 +6,7 @@ These projects include mostly combinations of exploratory analysis, experimental
 
 ## Current competition: [home_credit](https://www.kaggle.com/c/home-credit-default-risk)
 
-1. [instacart](../instacart)
+1. [instacart](..blob/master/instacart)
 2. [marketing_bank](../marketing_bank)
 3. [sales_forecast](../sales_forecast)
 4. [wine_class](../wine_class)
